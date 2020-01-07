@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XML</string>
+    <string name="string_with_link">&lt;a href="https://vnexpress.net/suc-khoe">Sức Khỏe VnExpress&lt;/a></string>
+
+</resources>
